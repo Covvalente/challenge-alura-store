@@ -3,7 +3,7 @@
 ## GIF do Projeto
 
 <p align="center">
-  <img src="IMG"/>
+  <img src="IMG/aprensentação do projeto.gif"/>
 </p>
 
 ### 1. Introdução
