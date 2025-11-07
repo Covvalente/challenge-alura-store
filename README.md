@@ -3,7 +3,7 @@
 ## GIF do Projeto
 
 <p align="center">
-  <img src="C:\Users\mateu\OneDrive\Área de Trabalho\desafio_alura_one\challenge-alura-store\IMG\aprensentação do projeto.gif" alt="Apresentação do Projeto" width="700"/>
+  <img src="IMG"/>
 </p>
 
 ### 1. Introdução
