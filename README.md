@@ -5,6 +5,7 @@
 <p align="center">
   <img src="C:\Users\mateu\OneDrive\Área de Trabalho\desafio_alura_one\challenge-alura-store\IMG\aprensentação do projeto.gif" alt="Apresentação do Projeto" width="700"/>
 </p>
+
 ### 1. Introdução
 
 Este relatório tem como objetivo analisar o desempenho das quatro lojas de e-commerce do Senhor João, considerando métricas chave como faturamento total, vendas por categoria de produto, avaliação média dos clientes, produtos mais e menos vendidos, e custo médio do frete. Com base nesta análise detalhada, será fornecida uma recomendação fundamentada sobre qual loja deveria ser considerada para venda, identificando seus pontos fortes e fracos.
