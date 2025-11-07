@@ -1,6 +1,6 @@
 ## Relatório Final: Recomendação de Venda de Loja para o Senhor João
 
-### GIF do Projeto
+## GIF do Projeto
 
 <p align="center">
   <img src="C:\Users\mateu\OneDrive\Área de Trabalho\desafio_alura_one\challenge-alura-store\IMG\aprensentação do projeto.gif" alt="Apresentação do Projeto" width="700"/>
